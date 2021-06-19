@@ -1,0 +1,13 @@
+.banner{
+    width: 100%;
+    
+}
+.fondoBanner{
+    width: 100%;  
+    height: 93.2vh;
+    background-image: url('../img/jose.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: 60%;
+}

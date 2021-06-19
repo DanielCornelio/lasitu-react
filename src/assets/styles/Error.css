@@ -1,0 +1,13 @@
+.error{
+    padding-top: 50px;
+}
+.img404{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+    
+}
+.img404 img{
+    width: 60%;
+}

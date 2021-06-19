@@ -1,0 +1,46 @@
+.tour{
+    padding: 50px;
+}
+.tituloTour{
+    margin-bottom: 50px;
+}
+.presentaciones{
+    width: 50%;
+    margin: 0 auto;
+}
+.presentacionItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    vertical-align: middle;
+    margin: 10px 0px;
+}
+.itemFoto{
+    width: 150px;
+    height: 150px;
+    vertical-align: middle;
+
+}
+.itemFoto img{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+
+}
+.itemTicket button{
+    padding: 15px 40px;
+    background-color: crimson;
+    color:#fff;
+    border: 0;
+    border-radius: 4px;
+    cursor: pointer;
+    vertical-align: middle;
+    font-weight: bold;
+    font-size: 1.3rem;
+
+
+}
+.itemTicket button:hover{
+    background-color: #dc143cdc;
+
+}

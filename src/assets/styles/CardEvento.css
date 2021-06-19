@@ -1,0 +1,15 @@
+.cardEvento{
+    background-color: #212529;
+    color:aliceblue;
+    width: 255px;
+    height: 270px;
+    padding: 22px;
+
+}
+.cardEvento:nth-child(2n+1){
+    background-color: black;
+    color: aliceblue;
+}
+.cardEvento h1{
+    font-weight: 700;
+}

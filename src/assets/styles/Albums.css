@@ -1,0 +1,23 @@
+.albums{
+    padding: 50px;
+}
+.tituloAlbums{
+    margin-bottom: 50px;
+}
+.albumItems{
+    display: flex;
+    width: 55%;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.albumItems item{
+    width: 30%;
+}
+.albumItems .item img{
+    width: 300px;
+    height: 300px;
+}
+.borde{
+    border: 1px solid #000;
+}

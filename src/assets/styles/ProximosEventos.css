@@ -1,0 +1,13 @@
+.eventos{
+    margin: 80px 0px;
+}
+.proximosEventos{
+    display: flex;
+    margin:auto;
+    width: 80%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.tituloEventos{
+    margin-bottom: 60px;
+}

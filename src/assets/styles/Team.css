@@ -1,0 +1,27 @@
+.team{
+    padding-top:50px;
+    padding-bottom: 70px;
+}
+.tituloTeam{
+    margin-bottom: 80px;
+}
+.people{
+    width: 80%;
+    display: flex;
+    margin:0 auto;
+
+}
+.peopleItem{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.avatar{
+    width: 50%;
+}
+.descripcion{
+    margin-top:20px;
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+.contacto{
+    padding: 50px;
+}
+.tituloContacto{
+    margin-bottom: 50px;
+}
+.formContacto{
+    display: flex;
+    width:80% ;
+    justify-content: center;
+    margin: 0 auto;
+
+}
+.generalForm{
+    width: 50%;
+}
+.generalForm h2{
+    margin-bottom: 20px;
+}
+.generalForm p span{
+    color: #DC143C;
+    font-weight: bold;
+}
+.formContacto form{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+
+}
+label{
+    font-weight: bold;
+}
+input[type=text], input[type=email], textarea{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    outline: none;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=text]:focus, input[type=email]:focus, textarea:focus {
+    border: 3px solid darkblue;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: #DC143C;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: #dc143cdc;
+  }
