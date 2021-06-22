@@ -1,6 +1,5 @@
 import React from 'react';
 import Title from '../components/Title'
-import LastSingle from '../components/LastSingle'
 import '../assets/styles/Albums.css'
 
 import fantasma from '../assets/img/albums/fantasma.jpg'
